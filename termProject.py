@@ -1,0 +1,2 @@
+def appStarted(app):
+    pass
